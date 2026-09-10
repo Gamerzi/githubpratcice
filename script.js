@@ -13,4 +13,5 @@ catch (error) {
 }
 finally {
     console.log("Java Script is completed");
+    console.log("King is none")
 }
